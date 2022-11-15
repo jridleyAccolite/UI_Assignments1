@@ -80,3 +80,46 @@
 .menu-item:active{background-color:#04aa6d}
 .menu-item:hover{background-color:#04aa6d}
 .menu-item:visited{background-color:#04aa6d}
+
+/* assignment 4 */
+
+.background4 {
+    background-color: #de5264;
+ }
+
+ .corner1 {
+    display: inline-block;
+    background-color: #5ab2ab;
+    height: 200px;
+    width: 200px;
+    border-radius: 200px 0px 0px 0px;
+    margin-top: 100px;
+    margin-bottom: 0px;
+    margin-left: 32vw;
+    margin-right: 0px;
+    top: 5px;
+    position: relative;
+ }
+
+ .corner2 {
+    display: inline-block;
+    background-color: #d2dc74;
+    height: 200px;
+    width: 200px;
+    border-radius: 0px 200px 0px 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+    left: -4px;
+    top: 5px;
+    position: relative;
+ }
+
+ .corner3 {
+    display: inline-block;
+    background-color: #dbdfcf;
+    height: 200px;
+    width: 200px;
+    border-radius: 0px 0px 0px 200px;
+    margin-left: 32vw;
+    margin-top: 0px
+ }
